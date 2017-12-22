@@ -1,0 +1,11 @@
+31/3/2016 
+manuel,m,100
+manuel,m,200
+diana,f,0
+vasco,m,123
+diana,f,100
+manuel,m,100
+diana,f,100
+diana,f,200
+manuel,m,0
+filipe,m,0

@@ -1,0 +1,8 @@
+1/4/2016 
+manuel,m,100
+manuel,m,200
+manuel,m,-200
+diana,f,0
+rodrigo,m,123
+rodrigo,m,-123
+alberto,m,150

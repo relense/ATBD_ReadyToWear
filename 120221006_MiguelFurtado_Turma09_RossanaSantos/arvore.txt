@@ -1,0 +1,2 @@
+manuel, 6
+diana, 5vasco, 1alberto, 1filipe, 1rodrigo, 1

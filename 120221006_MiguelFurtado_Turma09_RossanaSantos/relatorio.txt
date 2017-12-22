@@ -1,0 +1,24 @@
+Numero de clientes que visitaram a loja: 20
+Numero de clientes que efetuaram pelo menos uma compra: 12
+Numero de clientes que so visitaram: 8
+Valores de consumos totais
+	1/4/2016:
+	   manuel, 100
+	   alberto, 150
+	31/3/2016:
+	   manuel, 400
+	   diana, 400
+	   vasco, 123
+	31/1/2016:
+	   manuel, 300
+	   rodrigo, 123
+	   jana, 200
+Valores de consumos medios: 
+	   manuel, 133
+	   diana, 80
+	   rodrigo, 123
+	   jana, 200
+	   vasco, 123
+	   alberto, 150
+Genero que mais vista a loja: igual
+Cliente que mais gastou na loja: 1, manuel, masculino, 800

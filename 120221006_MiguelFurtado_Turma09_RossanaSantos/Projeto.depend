@@ -1,0 +1,305 @@
+# depslib dependency file v1.0
+1465240457 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\bynarytree.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"binaryTree.h"
+	"filaEstatica.h"
+
+1465228430 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\binarytree.h
+	"element.h"
+
+1464971794 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\element.h
+	"cliente.h"
+
+1465167418 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\cliente.h
+
+1463657521 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\filaestatica.h
+	"elementNo.h"
+
+1463655429 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\elementno.h
+	"binaryTree.h"
+
+1465172937 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1465159861 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiros.h"
+	"stackEstatico.h"
+
+1465159853 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\ficheiros.h
+	"stackEstatico.h"
+
+1465228182 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\stackestatico.h
+	"element.h"
+
+1463657567 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\filaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstatica.h"
+
+1464951749 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorclientes.c
+
+1465211537 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stackDinamico.h"
+	"ficheiros.h"
+	"cliente.h"
+	"stackEstatico.h"
+	"gestorFicheiros.h"
+	"ficheiros.h"
+	"dataLoja.h"
+
+1464968090 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\stackdinamico.h
+	"elementFicheiro.h"
+
+1463479316 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\elementficheiro.h
+	"ficheiros.h"
+
+1465064444 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1465043531 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\list.h
+	"element.h"
+
+1465130162 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\loja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stackDinamico.h"
+	"loja.h"
+	"list.h"
+	"dataLoja.h"
+
+1465211536 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\loja.h
+	"cliente.h"
+	"stackDinamico.h"
+	"list.h"
+	"dataLoja.h"
+	"binaryTree.h"
+
+1465240472 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestorFicheiros.h"
+	"stackDinamico.h"
+	"loja.h"
+	"gestorLoja.h"
+	"iterator.h"
+	"binaryTree.h"
+
+1465168126 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorficheiros.h
+	"stackDinamico.h"
+	"stackEstatico.h"
+	"ficheiros.h"
+	"dataLoja.h"
+
+1463658320 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\stackdinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamico.h"
+
+1465228189 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\stackestatico.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstatico.h"
+
+1465244362 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorloja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"stackEstatico.h"
+	"iterator.h"
+	"cliente.h"
+	"gestorLoja.h"
+	"loja.h"
+	"dataLoja.h"
+	"binaryTree.h"
+
+1465171423 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorloja.h
+	"list.h"
+	"stackEstatico.h"
+	"cliente.h"
+	"loja.h"
+
+1465077761 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\iterator.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"iterator.h"
+	"list.h"
+
+1465077581 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\iterator.h
+	"list.h"
+	"element.h"
+
+1465240457 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\bynarytree.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"binaryTree.h"
+	"filaEstatica.h"
+
+1465228430 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\binarytree.h
+	"element.h"
+
+1464971794 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\element.h
+	"cliente.h"
+
+1465167418 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\cliente.h
+
+1463657521 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\filaestatica.h
+	"elementNo.h"
+
+1463655429 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\elementno.h
+	"binaryTree.h"
+
+1465172937 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1465159861 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"ficheiros.h"
+	"stackEstatico.h"
+
+1465159853 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\ficheiros.h
+	"stackEstatico.h"
+
+1465228182 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\stackestatico.h
+	"element.h"
+
+1463657567 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\filaestatica.c
+	<stdlib.h>
+	<stdio.h>
+	"filaEstatica.h"
+
+1464951749 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorclientes.c
+
+1465226051 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorloja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"stackEstatico.h"
+	"iterator.h"
+	"cliente.h"
+	"gestorLoja.h"
+	"loja.h"
+	"dataLoja.h"
+	"binaryTree.h"
+
+1465043531 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\list.h
+	"element.h"
+
+1465077581 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\iterator.h
+	"list.h"
+	"element.h"
+
+1465171423 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorloja.h
+	"list.h"
+	"stackEstatico.h"
+	"cliente.h"
+	"loja.h"
+
+1465077761 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\iterator.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"iterator.h"
+	"list.h"
+
+1465064444 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1465131826 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\loja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stackDinamico.h"
+	"loja.h"
+	"list.h"
+	"dataLoja.h"
+
+1464968090 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\stackdinamico.h
+	"elementFicheiro.h"
+
+1463479316 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\elementficheiro.h
+	"ficheiros.h"
+
+1465211536 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\loja.h
+	"cliente.h"
+	"stackDinamico.h"
+	"list.h"
+	"dataLoja.h"
+	"binaryTree.h"
+
+1465240472 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestorFicheiros.h"
+	"stackDinamico.h"
+	"loja.h"
+	"gestorLoja.h"
+	"iterator.h"
+	"binaryTree.h"
+
+1465168126 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorficheiros.h
+	"stackDinamico.h"
+	"stackEstatico.h"
+	"ficheiros.h"
+	"dataLoja.h"
+
+1463658320 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\stackdinamico.c
+	<stdio.h>
+	<stdlib.h>
+	"stackDinamico.h"
+
+1465228189 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\stackestatico.c
+	<stdlib.h>
+	<stdio.h>
+	"stackEstatico.h"
+
+1465211537 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\gestorficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stackDinamico.h"
+	"ficheiros.h"
+	"cliente.h"
+	"stackEstatico.h"
+	"gestorFicheiros.h"
+	"ficheiros.h"
+	"dataLoja.h"
+
+1465080608 c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\dataloja.h
+
+1465085121 source:c:\users\miguel\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\dataloja.c
+	<stdio.h>
+	<stdlib.h>
+	"dataLoja.h"
+
+1465080608 c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\dataloja.h
+
+1465085121 source:c:\users\relense\dropbox\universidade\2ºano\2ºsemestre\atbd\mini-projeto 2\projeto\dataloja.c
+	<stdio.h>
+	<stdlib.h>
+	"dataLoja.h"
+

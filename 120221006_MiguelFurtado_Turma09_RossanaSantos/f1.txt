@@ -1,0 +1,11 @@
+31/1/2016 
+manuel,m,100
+manuel,m,200
+diana,f,0
+rodrigo,m,123
+manuel,m,200
+manuel,m,-200
+maria,f,0
+jacinta,f,0
+andreia,f,0
+jana,f,200
